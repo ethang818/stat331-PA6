@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Kaden, Dominic, Ethan, Josh
+author: Kaden, Dominic, Ethan (cmon bruh), Josh
 format: html
 editor: visual
 embed-resources: true

@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Kaden Emerson, Dominic Tangaan, Ethan Gutterman, Josh Aguilar
+author: "Kaden Emerson, Dominic Tangaan, Ethan Gutterman, Josh Aguilar"
 format: html
 editor: visual
 embed-resources: true
